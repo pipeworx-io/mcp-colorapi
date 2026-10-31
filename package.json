@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-colorapi",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Color API MCP — wraps thecolorapi.com (free, no auth)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "colorapi",
     "gatewaySlug": "colorapi",
-    "sourceHash": "v1-f3ae0d4203281e3294704b81edaf8b6bd0c407383b93f1b644d40c358cf825fa",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-42e0360464c92d64de3be16fba4e7026fa34f86c1085bd97245e330bc5608164",
+    "sourceCommit": "8cc978183948532674e797c429305c9d8ab2a1c3"
   }
 }
